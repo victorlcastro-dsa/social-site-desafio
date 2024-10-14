@@ -3,19 +3,19 @@
 
 # 📱 Projeto Redes Sociais
 
-Este projeto foi desenvolvido como parte de um **desafio proposto pelo CursoemVideo**, com o objetivo de aprimorar os conhecimentos sobre o uso de iframes e design responsivo. A página simula a interface de um iPhone, contendo links interativos para as principais redes sociais do autor.
+Este projeto foi desenvolvido como parte de um **desafio proposto pelo CursoemVideo**, com o objetivo de aprimorar os conhecimentos sobre o uso de iframes. A página simula a interface de um iPhone, contendo links interativos para as principais redes sociais do autor.
 
 👉 **[Clique aqui para acessar a página do projeto](https://victorlcastro-dsa.github.io/social-site-desafio/)**
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**: Estruturação semântica da página.
-- **CSS3**: Estilos e layout responsivo.
+- **CSS3**: Estilos.
 - **Imagens**: Utilização de formatos JPEG e PNG para a simulação visual.
 
 ## 🎨 Funcionalidade
 
-A página exibe uma imagem de um iPhone com um frame que carrega o conteúdo das redes sociais dentro de um iframe. A interface foi projetada ter responsividade, adaptando-se ao tamanho da tela.
+A página exibe uma imagem de um iPhone com um frame que carrega o conteúdo das redes sociais dentro de um iframe. A interface foi projetada para uso desktop.
 
 ## 🛠️ Como Executar
 
@@ -27,7 +27,7 @@ Para visualizar o projeto localmente:
 
 ## 📚 Desafio
 
-Este projeto foi desenvolvido como parte de um desafio do **CursoemVideo**, focado no aprimoramento das habilidades com **iframes** e no desenvolvimento de layouts responsivos.
+Este projeto foi desenvolvido como parte de um desafio do **CursoemVideo**, focado no aprimoramento das habilidades com **iframes**.
 
 ## 👤 Autor
 
