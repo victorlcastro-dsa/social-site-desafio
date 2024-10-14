@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte de um **desafio proposto pelo CursoemVi
 
 ## 🎨 Funcionalidade
 
-A página exibe uma imagem de um iPhone com um frame que carrega o conteúdo das redes sociais dentro de um iframe. A interface foi projetada para ser totalmente responsiva, adaptando-se ao tamanho da tela de diferentes dispositivos, garantindo uma experiência imersiva.
+A página exibe uma imagem de um iPhone com um frame que carrega o conteúdo das redes sociais dentro de um iframe. A interface foi projetada ter responsividade, adaptando-se ao tamanho da tela.
 
 ## 🛠️ Como Executar
 
